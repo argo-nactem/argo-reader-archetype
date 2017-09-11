@@ -37,7 +37,7 @@
 
 	<description>Parent POM containing sensible defaults for Argo Component development</description>
 
-	<url>https://github.com/argo-nactem/argo-starter-components/example-argo-reader</url>
+	<url>https://github.com/argo-nactem/argo-reader-archetype</url>
 
 	<developers>
 		<developer>
@@ -55,8 +55,8 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git:git://github.com/argo-nactem/argo-starter-components/example-argo-reader</connection>
-		<developerConnection>scm:git:git@github.com:argo-nactem/argo-starter-components.git/example-argo-reader</developerConnection>
-		<url>https://github.com/argo-nactem/argo-starter-components/example-argo-reader</url>
+		<connection>scm:git:git://github.com/argo-nactem/argo-reader-archetype</connection>
+		<developerConnection>scm:git:git@github.com:argo-nactem/argo-reader-archetype.git</developerConnection>
+		<url>https://github.com/argo-nactem/argo-reader-archetype</url>
 	</scm>
 </project>

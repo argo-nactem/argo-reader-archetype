@@ -35,7 +35,7 @@
 			<properties>
 				<!-- This is the class of the component from which the PEAR file will 
 					be generated -->
-				<uima.component.class>${package}.${analysisEngineClassName}</uima.component.class>
+				<uima.component.class>${package}.${readerClassName}</uima.component.class>
 			</properties>
 
 			<dependencies>
